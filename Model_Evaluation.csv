@@ -1,0 +1,5 @@
+Metric,Value
+Silhouette Score,0.5546571631111091
+Davies-Bouldin Score,0.5722356162263352
+Inertia,65.56840815571681
+Number of Clusters,5.0
